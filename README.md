@@ -1,34 +1,65 @@
 # Portfolio
 Overview of Data Science projects to date
 
-# [Project 1: Fraud Detection]
+## [Project 1: Fraud Detection]
 *
 *
 *
 
-# [Project 2: Musical Genre Classification]
+### Packages Used
 *
 *
 *
 
-# [Project 3: DOTA 2 Dashboard]
+
+## [Project 2: Musical Genre Classification]
 *
 *
 *
 
-# [Project 4: Energy Price Modelling]
+### Packages Used
 *
 *
 *
 
-# [Project 5: Image Recognition]
+
+## [Project 3: DOTA 2 Dashboard]
 *
 *
 *
 
+### Packages Used
+*
+*
+*
+
+## [Project 4: Energy Price Modelling]
+*
+*
+*
+
+### Packages Used
+*
+*
+*
+
+## [Project 5: Image Recognition]
+*
+*
+*
+
+### Packages Used
+*
+*
+*
 
 
 # [Project 2: Image Recognition]
+*
+*
+*
+
+### Packages Used
 *
 *
 *
