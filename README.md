@@ -23,6 +23,7 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 * Pre-processed the audio files using functions to pad and crop
 * Extracted key features of the Audio using the Librosa package, e.g. spectral bandwidth
 * Outlier detection to reveal and remove corrupted files
+* for interest, compared musical genres using cosine similarity, created a function to identify similar songs (resulted in tracks by the same artist)
 
 **Convolutional Neural Network**
 * Converted audio files to Mel-Spectograms for visual representation
@@ -36,20 +37,14 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 * Achieved higher accuracy using extracted features than the visual representation
 * Use of model to predict individual tracks, outputting probabilty of each genre
 
-* for interest, compared musical genres using cosine similarity, created a function to identify similar songs (resulted in tracks by the same artist)
-
 ![Decision Tree](Images/accuracies_graph.PNG)
-
-### Packages Used
-*
-*
-*
 
 
 ## [Project 3: DOTA 2 Dashboard]
-*
-*
-*
+Created a dashboard in R Shiny with multiple features for analytics of 50,000 DOTA 2 Matches
+
+* Wrangled Data in 
+* Used Reticulate to
 
 ### Packages Used
 *
