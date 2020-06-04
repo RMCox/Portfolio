@@ -18,11 +18,25 @@ Created a Model to detect instances of Online Credit Card Fraud, implementing so
 
 
 ## [Project 2: Musical Genre Classification]
-t
-* 
-*
-*
+Created and compared 2 Neural Networks to classify a database of 1000 audio tracks into their 10 musical genres: A convulutional neural network trained on visual representations of the audio, and a linear neural network based on extracted musical featues.
 
+* Pre-processed the audio files using functions to pad and crop
+* Extracted key features of the Audio using the Librosa package, e.g. spectral bandwidth
+* Outlier detection to reveal and remove corrupted files
+
+**Convolutional Neural Network**
+* Converted audio files to Mel-Spectograms for visual representation
+* Trained a Convolutional Neural Network using Pytorch using ReLU activation functions and dropout
+* Use of model to predict individual tracks, outputting probabilty of each genre
+
+**Linear Neural Network**
+* Used extracted key features to predict labels after addressing multi-colinearity
+* Achieved higher accuracy using extracted features than the visual representation
+* Use of model to predict individual tracks, outputting probabilty of each genre
+
+* for interest, compared musical genres using cosine similarity, created a function to identify similar songs (resulted in tracks by the same artist)
+
+![Decision Tree](Images/melspectogram.PNG)
 ### Packages Used
 *
 *
