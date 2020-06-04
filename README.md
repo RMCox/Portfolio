@@ -6,7 +6,7 @@ Overview of Data Science projects to date
 *
 *
 
-![Decision Tree](Images/decision_tree_limited.PNG=250x250)
+![Decision Tree](Images/decision_tree_limited.PNG| width=100)
 
 ### Packages Used
 *
