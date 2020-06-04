@@ -29,6 +29,8 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 * Trained a Convolutional Neural Network using Pytorch using ReLU activation functions and dropout
 * Use of model to predict individual tracks, outputting probabilty of each genre
 
+![Decision Tree](Images/melspectogram.PNG)
+
 **Linear Neural Network**
 * Used extracted key features to predict labels after addressing multi-colinearity
 * Achieved higher accuracy using extracted features than the visual representation
@@ -36,7 +38,8 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 
 * for interest, compared musical genres using cosine similarity, created a function to identify similar songs (resulted in tracks by the same artist)
 
-![Decision Tree](Images/melspectogram.PNG)
+![Decision Tree](Images/accuracies_graph.PNG)
+
 ### Packages Used
 *
 *
