@@ -48,7 +48,7 @@ The anaylsis is desgined to assist with hero drafting, showing multiple hero win
     * Tab showing common words in the chat for winning and losing games.
     * Tab incorporating a Linear and a Long-Short-Term-Memory Neural Network to predict the final pick of a game based on previous picks. The reticulate package was used to link to Python code.
 
-![lift_example](Images/lift_example.PNG
+![lift_example](Images/lift_example.PNG)
 ![LTSM_Example](Images/LTSM_Example.PNG)
 
 
