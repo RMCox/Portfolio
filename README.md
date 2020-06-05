@@ -18,7 +18,7 @@ Created a Model to detect instances of Online Credit Card Fraud, implementing so
 
 
 ## [Project 2: Musical Genre Classification]
-Created and compared 2 Neural Networks to classify a database of 1000 audio tracks into their 10 musical genres: A convulutional neural network trained on visual representations of the audio, and a linear neural network based on extracted musical featues.
+Created and compared 2 Neural Networks to classify a database of 1000 audio tracks into their 10 musical genres: A convolutional neural network trained on visual representations of the audio, and a linear neural network based on extracted musical featues.
 
 * Pre-processed the audio files using functions to pad and crop
 * Extracted key features of the Audio using the Librosa package, e.g. spectral bandwidth
@@ -30,7 +30,6 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 * Trained a Convolutional Neural Network using Pytorch using ReLU activation functions and dropout
 * Use of model to predict individual tracks, outputting probabilty of each genre
 
-![Decision Tree](Images/melspectogram.PNG)
 
 **Linear Neural Network**
 * Used extracted key features to predict labels after addressing multi-colinearity
@@ -38,7 +37,7 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 * Use of model to predict individual tracks, outputting probabilty of each genre
  <div style="text-align:center"><img src="Images/accuracies_graph.PNG" /></div>
 
-
+![Mel-Spectogram](Images/melspectogram.PNG)
 
 ## [Project 3: DOTA 2 Dashboard]
 Created a dashboard in R Shiny with multiple features for analytics of 50,000 DOTA 2 Matches
