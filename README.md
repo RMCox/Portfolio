@@ -36,8 +36,10 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 * Used extracted key features to predict labels after addressing multi-colinearity
 * Achieved higher accuracy using extracted features than the visual representation
 * Use of model to predict individual tracks, outputting probabilty of each genre
+<p align="center">
+ ![Decision Tree](Images/accuracies_graph.PNG)
+</p>
 
-![Decision Tree](Images/accuracies_graph.PNG)
 
 
 ## [Project 3: DOTA 2 Dashboard]
