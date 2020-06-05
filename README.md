@@ -37,8 +37,8 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 * Achieved higher accuracy using extracted features than the visual representation
 * Use of model to predict individual tracks, outputting probabilty of each genre
 <p align="center">
- ![Decision Tree](Images/accuracies_graph.PNG)
-</p>
+ <div style="text-align:center"><img src="Images/accuracies_graph.PNG" />
+</div>
 
 
 
