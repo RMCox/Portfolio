@@ -53,7 +53,7 @@ The dashboard was designed to assist with hero drafting, showing multiple hero w
 
 
 ## [Project 4: Energy Price Modelling]
-Time Series Analysis in R. Used Generalised Additive Models (GAMs) to predict energy prices on the energy futures markeet, and choose an optimal strategy to minimise costs for an energy supplier.
+Time Series Analysis in R. Used Generalised Additive Models (GAMs) to predict energy prices on the energy futures market, and choose an optimal strategy to minimise costs for an energy supplier.
 
 * Performed EDA to explore the variable distributions and relationships, which revealed the need for a non-linear model.
 * Feature engineering to add lagged variables, which increased the variance explained by the GAMs
