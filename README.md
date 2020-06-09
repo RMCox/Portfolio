@@ -2,23 +2,23 @@
 Overview of Data Science projects to date
 
 ## [Project 1: Fraud Detection]
-Created a Model to detect instances of Online Credit Card Fraud, implementing solutions that fullfilled the additional requirement for interpretability, and addressed the specific nuances of Fraud Detection.
+Created a Model to detect instances of Online Credit Card Fraud, implementing solutions that fulfilled the additional requirement for interpretability, and addressed the specific nuances of Fraud Detection.
 
 * Exploratory Data Analysis and Data Wrangling.
 * Evaluation and subsequent rejection of Principle Component Analysis.
 * Oversampling to address Data Balance.
-* Evaluation of Metrics, and Precision/Recall tradeoff.
+* Evaluation of Metrics, and Precision/Recall trade-off.
 * Feature Engineering motivated by findings from EDA.
-* Comparision and Assessment of various Models, Considering Success Metrics, Interpretibility and Computational Expense.
+* Comparison and Assessment of various Models, Considering Success Metrics, Interpretability and Computational Expense.
 * Conclusion to Implement Random Forest model using Engineered Features.
-* Grid Search for Hypyerparameter Tuning.
+* Grid Search for hyperparameter Tuning.
 * Discussion of Practical Implementation into a Bank's Strategy.
 
 ![Decision Tree](Images/decision_tree_limited.PNG)
 
 
 ## [Project 2: Musical Genre Classification]
-Created and compared 2 Neural Networks to classify a database of 1000 audio tracks into their 10 musical genres: A convolutional neural network trained on visual representations of the audio, and a linear neural network based on extracted musical featues.
+Created and compared 2 Neural Networks to classify a database of 1000 audio tracks into their 10 musical genres: A convolutional neural network trained on visual representations of the audio, and a linear neural network based on extracted musical features.
 
 * Pre-processed the audio files using functions to pad and crop.
 * Extracted key features of the Audio using the Librosa package, e.g. spectral bandwidth.
@@ -26,13 +26,13 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 * for interest, compared musical genres using cosine similarity, created a function to identify similar songs (resulted in tracks by the same artist).
 
 **Convolutional Neural Network**
-* Converted audio files to Mel-Spectograms for visual representation.
+* Converted audio files to Mel-Spectrograms for visual representation.
 * Trained a Convolutional Neural Network using Pytorch using ReLU activation functions and dropout.
-* Use of model to predict individual tracks, outputting probabilty of each genre.
+* Use of model to predict individual tracks, outputting probability of each genre.
 
 
 **Linear Neural Network**
-* Used extracted key features to predict labels after addressing multi-colinearity.
+* Used extracted key features to predict labels after addressing multi-collinearity.
 * Achieved higher accuracy using extracted features than the visual representation.
 * Use of model to predict individual tracks, outputting probabilty of each genre.
 
@@ -60,14 +60,14 @@ Time Series Analysis in R. Used Generalised Additive Models (GAMs) to predict en
 * Performed EDA to explore the variable distributions and relationships, which revealed the need for a non-linear model.
 * Implemented GAMs iteratively as energy prices became available, to predict prices for each energy market.
 * Feature engineering to add lagged variables, which increased the variance explained by the GAMs.
-* Tested the effectiveness fof ARIMA modelling.
-* Performed bootstrap aggregation to guage how the model would perform on many random points in the data. Constructed confidence intervals for energy costs.
+* Tested the effectiveness of ARIMA modelling.
+* Performed bootstrap aggregation to gauge how the model would perform on many random points in the data. Constructed confidence intervals for energy costs.
 
 ![Time Series](Images/time_series_image.PNG)
 
 
 ## [Project 5: Image Recognition]
-Baisc classification task, creating a linear, convolutional and recurrant neural networks to classify images into animals, vegetables and tools in Pytorch.
+Basic classification task, creating a linear, convolutional and recurrant neural networks to classify images into animals, vegetables and tools in Pytorch.
 
 ![Loss, Accuracy and Confusion Matrix](Images/losses_accuracy_graphs_example.PNG)
 
