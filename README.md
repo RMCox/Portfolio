@@ -53,11 +53,14 @@ The dashboard was designed to assist with hero drafting, showing multiple hero w
 
 
 ## [Project 4: Energy Price Modelling]
+Co-Author: Brid Roissetter https://uk.linkedin.com/in/br%C3%ADd-roissetter-618127170
+
 Time Series Analysis in R. Used Generalised Additive Models (GAMs) to predict energy prices on the energy futures market, and choose an optimal strategy to minimise costs for an energy supplier.
 
 * Performed EDA to explore the variable distributions and relationships, which revealed the need for a non-linear model.
-* Feature engineering to add lagged variables, which increased the variance explained by the GAMs
-* Tested the effectiveness fof ARIMA modelling
+* Implemented GAMs iteratively as energy prices became available, to predict prices for each energy market.
+* Feature engineering to add lagged variables, which increased the variance explained by the GAMs.
+* Tested the effectiveness fof ARIMA modelling.
 * Performed bootstrap aggregation to guage how the model would perform on many random points in the data. Constructed confidence intervals for energy costs.
 
 ![Time Series](Images/time_series_image.PNG)
