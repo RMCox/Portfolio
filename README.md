@@ -1,7 +1,30 @@
 # Portfolio
 Overview of Data Science projects to date
 
-## Project 1: [Fraud Detection](https://github.com/RMCox/Fraud-Detection)
+## Project 1: [Anomaly Detection](https://github.com/RMCox/Fraud-Detection)
+
+[report PDF](https://github.com/RMCox/Fraud-Detection/blob/master/Fraud_Detection_Project.pdf)
+
+Built a Streamlit dashboard for Anomaly Detection in DNS logs. Identified 2 kinds of anomaly:
+  * Time intervals with anomalous values for key features in DNS
+  * Items which exhibit symptoms of DNS exploits
+
+**Anomalous Time Intervals**
+* Implemented Autoencoders for outlier detection (and Median Absolute Deviation for static features)
+* Assessed the strengths and weaknesses of various outlier detection methods, such as robustness.
+
+**Items Sharing Symptoms of Exploits**
+* Engineered features that would capture the symptoms of certain DNS exploits (Botnet Heatbeats, DNS Tunnelling, DDoS Attacks, Domain Flux)
+* Implemented a risk-scoring system for these features, similar to providers such as Splunk
+
+**Dashboard**
+* Allowed for custom anomaly detection checks, specifying the desired method and time-interval
+* Visualised anomalies in time-series data
+* Allowed for the exporting of anomalies as a csv
+* Allowed for retraining of neural networks within the dashboard
+
+
+## Project 2: [Fraud Detection](https://github.com/RMCox/Fraud-Detection)
 
 [report PDF](https://github.com/RMCox/Fraud-Detection/blob/master/Fraud_Detection_Project.pdf)
 
@@ -20,7 +43,7 @@ Created a Model to detect instances of Online Credit Card Fraud, implementing so
 ![Decision Tree](Images/decision_tree_limited.PNG)
 
 
-## Project 2: [Musical Genre Classification](https://github.com/RMCox/Music-Genre-Classification)
+## Project 3: [Musical Genre Classification](https://github.com/RMCox/Music-Genre-Classification)
 
 [report PDF](https://github.com/RMCox/Music-Genre-Classification/blob/master/Musical_Genre_Classification.pdf)
 
@@ -44,7 +67,7 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 
 ![Mel-Spectogram](Images/melspectogram.PNG)
 
-## Project 3: [DOTA 2 Dashboard](https://github.com/RMCox/DOTA-2-Dashboard)
+## Project 4: [DOTA 2 Dashboard](https://github.com/RMCox/DOTA-2-Dashboard)
 Created a dashboard in R Shiny with multiple features for analytics of 50,000 DOTA 2 Matches.
 The dashboard was designed to assist with hero drafting, showing multiple hero win-rates, association rules and neural networks to predict the final pick in any game based on previous picks.
 
@@ -58,7 +81,7 @@ The dashboard was designed to assist with hero drafting, showing multiple hero w
 ![LTSM_Example](Images/LTSM_Example.PNG)
 
 
-## Project 4: [Energy Price Modelling](https://github.com/RMCox/Energy-Price-Prediction)
+## Project 5: [Energy Price Modelling](https://github.com/RMCox/Energy-Price-Prediction)
 Co-Author: Brid Roissetter https://uk.linkedin.com/in/br%C3%ADd-roissetter-618127170
 
 [Report PDF](https://github.com/RMCox/Energy-Price-Prediction/blob/master/Energy_Price_Prediction.pdf)
@@ -74,7 +97,7 @@ Time Series Analysis in R. Used Generalised Additive Models (GAMs) to predict en
 ![Time Series](Images/time_series_image.PNG)
 
 
-## Project 5: Image Recognition
+## Project 6: Image Recognition
 Basic classification task, creating a linear, convolutional and recurrant neural networks to classify images into animals, vegetables and tools in Pytorch.
 
 ![Loss, Accuracy and Confusion Matrix](Images/losses_accuracy_graphs_example.PNG)
