@@ -2,7 +2,9 @@
 Overview of Data Science projects to date
 
 ## Project 1: [Fraud Detection](https://github.com/RMCox/Fraud-Detection)
+
 [report PDF](https://github.com/RMCox/Fraud-Detection/blob/master/Fraud_Detection_Project.pdf)
+
 Created a Model to detect instances of Online Credit Card Fraud, implementing solutions that fulfilled the additional requirement for interpretability, and addressed the specific nuances of Fraud Detection.
 
 * Exploratory Data Analysis and Data Wrangling.
@@ -19,7 +21,9 @@ Created a Model to detect instances of Online Credit Card Fraud, implementing so
 
 
 ## Project 2: [Musical Genre Classification](https://github.com/RMCox/Music-Genre-Classification)
+
 [report PDF](https://github.com/RMCox/Music-Genre-Classification/blob/master/Musical_Genre_Classification.pdf)
+
 Created and compared 2 Neural Networks to classify a database of 1000 audio tracks into their 10 musical genres: A convolutional neural network trained on visual representations of the audio, and a linear neural network based on extracted musical features.
 
 * Pre-processed the audio files using functions to pad and crop.
