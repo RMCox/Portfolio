@@ -1,5 +1,4 @@
-# Portfolio
-Overview of Data Science projects to date
+# Rory Cox: Data Science Portfolio
 
 ## Project 1: Anomaly Detection
 
