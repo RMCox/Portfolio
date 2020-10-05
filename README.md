@@ -66,7 +66,7 @@ Time Series Analysis in R. Used Generalised Additive Models (GAMs) to predict en
 ![Time Series](Images/time_series_image.PNG)
 
 
-## Project 5: [Image Recognition]
+## Project 5: Image Recognition
 Basic classification task, creating a linear, convolutional and recurrant neural networks to classify images into animals, vegetables and tools in Pytorch.
 
 ![Loss, Accuracy and Confusion Matrix](Images/losses_accuracy_graphs_example.PNG)
