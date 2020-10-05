@@ -1,7 +1,7 @@
 # Portfolio
 Overview of Data Science projects to date
 
-## [Project 1: Fraud Detection]
+## Project 1: Fraud Detection
 Created a Model to detect instances of Online Credit Card Fraud, implementing solutions that fulfilled the additional requirement for interpretability, and addressed the specific nuances of Fraud Detection.
 
 * Exploratory Data Analysis and Data Wrangling.
@@ -17,7 +17,7 @@ Created a Model to detect instances of Online Credit Card Fraud, implementing so
 ![Decision Tree](Images/decision_tree_limited.PNG)
 
 
-## [Project 2: Musical Genre Classification]
+## Project 2: Musical Genre Classification
 Created and compared 2 Neural Networks to classify a database of 1000 audio tracks into their 10 musical genres: A convolutional neural network trained on visual representations of the audio, and a linear neural network based on extracted musical features.
 
 * Pre-processed the audio files using functions to pad and crop.
@@ -38,7 +38,7 @@ Created and compared 2 Neural Networks to classify a database of 1000 audio trac
 
 ![Mel-Spectogram](Images/melspectogram.PNG)
 
-## [Project 3: DOTA 2 Dashboard]
+## Project 3: DOTA 2 Dashboard
 Created a dashboard in R Shiny with multiple features for analytics of 50,000 DOTA 2 Matches.
 The dashboard was designed to assist with hero drafting, showing multiple hero win-rates, association rules and neural networks to predict the final pick in any game based on previous picks.
 
@@ -52,7 +52,7 @@ The dashboard was designed to assist with hero drafting, showing multiple hero w
 ![LTSM_Example](Images/LTSM_Example.PNG)
 
 
-## [Project 4: Energy Price Modelling]
+## Project 4: Energy Price Modelling
 Co-Author: Brid Roissetter https://uk.linkedin.com/in/br%C3%ADd-roissetter-618127170
 
 Time Series Analysis in R. Used Generalised Additive Models (GAMs) to predict energy prices on the energy futures market, and choose an optimal strategy to minimise costs for an energy supplier.
@@ -66,7 +66,7 @@ Time Series Analysis in R. Used Generalised Additive Models (GAMs) to predict en
 ![Time Series](Images/time_series_image.PNG)
 
 
-## [Project 5: Image Recognition]
+## Project 5: Image Recognition
 Basic classification task, creating a linear, convolutional and recurrant neural networks to classify images into animals, vegetables and tools in Pytorch.
 
 ![Loss, Accuracy and Confusion Matrix](Images/losses_accuracy_graphs_example.PNG)
