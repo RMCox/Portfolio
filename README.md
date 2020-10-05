@@ -6,19 +6,13 @@ Built a Streamlit dashboard for Anomaly Detection in DNS logs. Identified 2 kind
   * Time intervals with anomalous values for key features.
   * Items which exhibit symptoms of DNS exploits.
 
-**Anomalous Time Intervals**
 * Implemented Autoencoders for outlier detection (and Median Absolute Deviation for static features).
 * Assessed the strengths and weaknesses of various outlier detection methods, such as robustness.
-
-**Items Sharing Symptoms of Exploits**
 * Engineered features that would capture the symptoms of certain DNS exploits (Botnet Heatbeats, DNS Tunnelling, DDoS Attacks, Domain Flux).
 * Implemented a risk-scoring system for these features, similar to providers such as Splunk.
-
-**Dashboard**
-* Allowed for custom anomaly detection checks, specifying the desired method and time-interval
-* Visualised anomalies in time-series data
+* Allowed for custom anomaly detection checks within the dashboard, specifying the desired method and time-interval
 * Allowed for retraining of neural networks within the dashboard
-* Allowed for the exporting of anomalies as a csv
+* Allowed for the exporting of anomalies within the dashboard as a csv
 
 ![Anomaly Detection Dashboard](https://github.com/RMCox/Portfolio/blob/master/Images/anomaly_detection_dashboard_screenshot.PNG)
 ## Project 2: [Fraud Detection](https://github.com/RMCox/Fraud-Detection)
