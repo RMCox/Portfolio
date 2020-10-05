@@ -21,7 +21,7 @@ Built a Streamlit dashboard for Anomaly Detection in DNS logs. Identified 2 kind
 * Allowed for retraining of neural networks within the dashboard
 * Allowed for the exporting of anomalies as a csv
 
-![Anomaly Detection Dashboard](https://github.com/RMCox/Portfolio/blob/master/Images/dashboard_screenshot.PNG)
+![Anomaly Detection Dashboard](https://github.com/RMCox/Portfolio/blob/master/Images/anomaly_detection_dashboard_screenshot.PNG)
 ## Project 2: [Fraud Detection](https://github.com/RMCox/Fraud-Detection)
 
 [report PDF](https://github.com/RMCox/Fraud-Detection/blob/master/Fraud_Detection_Project.pdf)
