@@ -1,11 +1,7 @@
 # Rory Cox: Data Science Portfolio
 
 ## Project 1: Anomaly Detection
-
-Built a Streamlit dashboard for Anomaly Detection in DNS logs. Identified 2 kinds of anomaly:
-  * Time intervals with anomalous values for key features.
-  * Items which exhibit symptoms of DNS exploits
-
+Built a Streamlit dashboard for Anomaly Detection in DNS logs. Identified 2 kinds of anomaly; Time intervals with anomalous values for key features and Items which exhibit symptoms of DNS exploits
 
 * Implemented Autoencoders for outlier detection (and Median Absolute Deviation for static features).
 * Assessed the strengths and weaknesses of various outlier detection methods, such as robustness.
@@ -14,6 +10,7 @@ Built a Streamlit dashboard for Anomaly Detection in DNS logs. Identified 2 kind
 * Allowed for custom anomaly detection checks within the dashboard, specifying the desired method and time-interval
 * Allowed for retraining of neural networks within the dashboard
 * Allowed for the exporting of anomalies within the dashboard as a csv
+
 
 ![Anomaly Detection Dashboard](https://github.com/RMCox/Portfolio/blob/master/Images/anomaly_detection_dashboard_screenshot.PNG)
 ## Project 2: [Fraud Detection](https://github.com/RMCox/Fraud-Detection)
