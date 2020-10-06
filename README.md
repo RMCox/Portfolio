@@ -1,6 +1,6 @@
 # Rory Cox: Data Science Portfolio
 
-## Project 1: [Anomaly Detection](https://github.com/RMCox/Anomaly-Detection)
+## Project 1: [Anomaly Detection in Cybersecurity Data - Allstate Project](https://github.com/RMCox/Anomaly-Detection)
 
 [Anomaly Detection Report PDF](https://github.com/RMCox/Anomaly-Detection/blob/main/Anomaly%20Detection%20in%20Cybersecurity%20Data.pdf)
 
