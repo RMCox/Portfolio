@@ -74,7 +74,7 @@ The dashboard was designed to assist with hero drafting, showing multiple hero w
 
 
 ## Project 5: [Energy Price Modelling](https://github.com/RMCox/Energy-Price-Prediction)
-Co-Author: Brid Roissetter https://uk.linkedin.com/in/br%C3%ADd-roissetter-618127170
+Co-Author: [Brid Roissetter](https://uk.linkedin.com/in/br%C3%ADd-roissetter-618127170)
 
 [Energy Price Modelling Report PDF](https://github.com/RMCox/Energy-Price-Prediction/blob/master/Energy_Price_Prediction.pdf)
 
