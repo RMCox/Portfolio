@@ -1,6 +1,9 @@
 # Rory Cox: Data Science Portfolio
 
-## Project 1: Anomaly Detection
+## Project 1: Anomaly Detection(https://github.com/RMCox/Anomaly-Detection)
+
+[Anomaly Detection Report PDF](https://github.com/RMCox/Anomaly-Detection/blob/main/Anomaly%20Detection%20in%20Cybersecurity%20Data.pdf)
+
 Built a Streamlit dashboard for Anomaly Detection in DNS logs. Identified 2 kinds of anomaly; Time intervals with anomalous values for key features and Items which exhibit symptoms of DNS exploits
 
 * Implemented Autoencoders for outlier detection (and Median Absolute Deviation for static features).
@@ -15,7 +18,7 @@ Built a Streamlit dashboard for Anomaly Detection in DNS logs. Identified 2 kind
 ![Anomaly Detection Dashboard](https://github.com/RMCox/Portfolio/blob/master/Images/anomaly_detection_dashboard_screenshot.PNG)
 ## Project 2: [Fraud Detection](https://github.com/RMCox/Fraud-Detection)
 
-[report PDF](https://github.com/RMCox/Fraud-Detection/blob/master/Fraud_Detection_Project.pdf)
+[Fraud Detection Report PDF](https://github.com/RMCox/Fraud-Detection/blob/master/Fraud_Detection_Project.pdf)
 
 Created a Model to detect instances of Online Credit Card Fraud, implementing solutions that fulfilled the additional requirement for interpretability, and addressed the specific nuances of Fraud Detection.
 
@@ -34,7 +37,7 @@ Created a Model to detect instances of Online Credit Card Fraud, implementing so
 
 ## Project 3: [Musical Genre Classification](https://github.com/RMCox/Music-Genre-Classification)
 
-[report PDF](https://github.com/RMCox/Music-Genre-Classification/blob/master/Musical_Genre_Classification.pdf)
+[Musical Genre Classification report PDF](https://github.com/RMCox/Music-Genre-Classification/blob/master/Musical_Genre_Classification.pdf)
 
 Created and compared 2 Neural Networks to classify a database of 1000 audio tracks into their 10 musical genres: A convolutional neural network trained on visual representations of the audio, and a linear neural network based on extracted musical features.
 
@@ -73,7 +76,7 @@ The dashboard was designed to assist with hero drafting, showing multiple hero w
 ## Project 5: [Energy Price Modelling](https://github.com/RMCox/Energy-Price-Prediction)
 Co-Author: Brid Roissetter https://uk.linkedin.com/in/br%C3%ADd-roissetter-618127170
 
-[Report PDF](https://github.com/RMCox/Energy-Price-Prediction/blob/master/Energy_Price_Prediction.pdf)
+[Energy Price Modelling Report PDF](https://github.com/RMCox/Energy-Price-Prediction/blob/master/Energy_Price_Prediction.pdf)
 
 Time Series Analysis in R. Used Generalised Additive Models (GAMs) to predict energy prices on the energy futures market, and choose an optimal strategy to minimise costs for an energy supplier.
 
