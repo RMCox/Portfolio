@@ -6,7 +6,7 @@
 
 Built a Streamlit dashboard for Anomaly Detection in DNS logs. Identified 2 kinds of anomaly; Time intervals with anomalous values for key features and Items which exhibit symptoms of DNS exploits
 
-* Implemented Autoencoders and Median Absolute Deviation for Anomaly Detection.  
+* Implemented Autoencoders and Median Absolute Deviation Methods for Anomaly Detection.  
 * Assessed the strengths and weaknesses of various outlier detection methods.  
 * Engineered features that would capture the symptoms of certain DNS exploits (Botnet Heatbeats, DNS Tunnelling, DDoS Attacks, Domain Flux).
 * Implemented a risk-scoring system for the engineered features, similar to providers such as Splunk.
